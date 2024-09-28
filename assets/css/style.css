@@ -1,0 +1,32 @@
+body {
+
+    background-color: #f8f9fa;
+    background-image: url('https://th.bing.com/th/id/OIG4.taO4M2b_CQoRROn1Z31W?w=1024&h=1024&rs=1&pid=ImgDetMain'); /* Substitua pelo caminho da sua imagem */
+    background-size: cover; /* A imagem irá cobrir todo o fundo */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    background-position: center; /* Centraliza a imagem no fundo */
+
+}
+
+
+h1 {
+    margin-bottom: 20px;
+}
+.btn {
+    padding: 10px 20px;
+    background-color: #070707;
+    color: white;
+    border: none;
+    justify-content: center;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;;
+}
+
+.container {
+    max-width: 600px;
+    height: 250px;
+    background-color: rgb(77, 208, 25);
+    border-radius: 20px;
+    padding: 10px 50px 10px 50px;
+}
